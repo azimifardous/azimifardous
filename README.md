@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Ahmad Azimi
-- 👀 I’m interested in Web 2.0, Web 3.0, Blockchain, NFTs, Much more...
-- 🌱 I’m currently learning Front-end web development.
-- 💞️ I’m looking to collaborate on projects and that sort of stuffs.
-- 📫 You can contact me at ferdous.azimi7@gmail.com
+Hi 👋 My name is Ahmad Fardous Azimi
+====================================
 
-<!---
-azimifardous/azimifardous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SWE Student at TEDU | Web 3.0, Blockchain & NFTs Enthusiast | Productivity 💙
+-----------------------------------------------------------------------------
+
+I'm currently learning web development (Web 2.0). Besides, I'm a first year software engineering student.
+
+*   🌍  I'm based in Turkey
+*   🖥️  See my portfolio at [My Twitter](http://twitter.com/AzimiFardous)
+*   ✉️  You can contact me at [ferdous.azimi7@gmail.com](mailto:ferdous.azimi7@gmail.com)
+*   🧠  I'm learning HTML, CSS, & JS.
+*   👀 I’m interested in Web 2.0, Web 3.0, Blockchain, NFTs, Much more...
+*   🤝  I'm open to collaborating on interesting projects.
+*   ⚡  Fun Fact: I'm a pure weeb.
+
