@@ -1,9 +1,6 @@
 Hi 👋 My name is Ahmad Fardous Azimi
 ====================================
 
-SWE Student at TEDU | Web 3.0, Blockchain & NFTs Enthusiast | Productivity 💙
------------------------------------------------------------------------------
-
 I'm currently learning web development (Web 2.0). Besides, I'm a first year software engineering student.
 
 * 🌍  I'm based in Turkey
