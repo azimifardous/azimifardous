@@ -13,7 +13,6 @@ I'm currently learning web development (Web 2.0). Besides, I'm a first year soft
 src="https://img.shields.io/twitter/follow/azimifardous?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
 
-### Skills
 
 ### Skills
 
