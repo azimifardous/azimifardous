@@ -1,11 +1,11 @@
 Hi 👋 My name is Ahmad Fardous Azimi
 ====================================
 
-I'm currently learning web development (Web 2.0). Besides, I'm a first year software engineering student.
+I'm a front-end developer. Besides, I'm a first year software engineering student.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [ferdous.azimi7@gmail.com](mailto:ferdous.azimi7@gmail.com)
-* 🧠  I'm learning HTML, CSS, & JS.
+* 🧠  I'm currently learning JavaScript
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  Fun Fact: I'm a pure weeb.
 
