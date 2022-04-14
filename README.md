@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmad Fardous Azimi
 ====================================
 
-I'm a front-end developer. Besides, I'm a first year software engineering student.
+I'm a first year software engineering student and front-end developer.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [ferdous.azimi7@gmail.com](mailto:ferdous.azimi7@gmail.com)
