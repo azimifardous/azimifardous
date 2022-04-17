@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm AIZ</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azimifardou" alt="azimifardou" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/azimifardous" target="blank"><img src="https://img.shields.io/twitter/follow/azimifardous?logo=twitter&style=for-the-badge" alt="azimifardous" /></a> </p>
 
 - 🔭 I’m currently working on [50 Project Challenge of Fundamentals of HTML, CSS, & JS](https://github.com/azimifardous/50-Project-Challenges-of-Fundamentals-of-HTML-CSS-JS.git)
