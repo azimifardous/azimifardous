@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm AIZ, a Front-end Developer👨‍💻 🚀</div>  
   
 
