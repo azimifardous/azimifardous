@@ -9,7 +9,7 @@
 
 - 👯 I’m open to collaborate on **Interesting Projects.**
 
-- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/azimifardous/50-Project-Challenges-of-Fundamentals-of-HTML-CSS-JS.git)
 
 - 💬 Ask me about **Anything**
 
