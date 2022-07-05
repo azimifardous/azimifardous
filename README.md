@@ -1,4 +1,4 @@
-Hi 👋 My name is AIZ
+Hi 👋 I'm Ahmad Azimi
 ====================
 
 Frontend Developer & Senior Graphic Designer
@@ -7,9 +7,9 @@ Frontend Developer & Senior Graphic Designer
 I've been learning and working graphic designing for more than 3 years, and after I was accepted as SWE student in university I changed my career path. Since that, I first started learning from HTML and CSS (Web Development) and currently I am learning JavaScript.
 
 * 🌍  I'm based in Turkey
-* 🚀  I'm currently working on [50 Project Challenges of HTML, CSS, & JS Fundamentals](http://github.com/azimifardous/50-Project-Challenges-of-Fundamentals-of-HTML-CSS-JS.git)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on any kind of projects
+* 🚀  I'm currently working on developing my skills as frontend dev
+* 🧠  I'm learning React.JS
+* 🤝  I'm open to collaborate on any kind of projects
 * ⚡  Fun Fact: I'm a Weeb
 
 <a href="https://www.twitter.com/azimifardous" target="_blank" rel="noreferrer"><img
