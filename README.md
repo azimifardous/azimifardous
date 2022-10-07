@@ -5,7 +5,7 @@ SWE Student - Frontend Developer - Senior Graphic Designer
 --------------------------------------------
 
 * 🌍  I'm based in Turkey
-* 🚀  I'm currently working on my programming skills
+* 🚀  I'm currently learning Java
 * 🧠  I'm studying Software Engineering
 * 🤝  I'm open to collaborate on any kind of projects
 * ⚡  Fun Fact: I'm a Weeb
