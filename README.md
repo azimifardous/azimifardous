@@ -1,9 +1,10 @@
 ## SWE Student - Frontend Dev - Graphic Designer
 
 # 💫 About Me:
-- I'm currently working on building a game with Java.
+- I'm currently working on building a game with JavaFx Library.
 - I'm always open to collaborating on projects.
-- I'm currently learning Java OOP and JavaFx.
+- I'm currently learning Advanced Java.
+- On a path of becoming a Full-Stack Dev.
 - Fun Fact: I'm a Weeb; Call me Mingo!
 
 
