@@ -1,7 +1,7 @@
-## SWE Student - Frontend Dev - Graphic Designer
+## Sophomore SWE Student - FullStack Developer
 
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website.<br>👯 I’m open to collaborating on projects.<br>🌱 I’m currently learning Node.js.<br>💬 Ask me about Coding.<br>⚡ Fun fact - I'm an Otaku...!
+🔭 I’m currently working on my portfolio website.<br>👯 I’m open to collaborating on projects.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about Coding.<br>⚡ Fun fact - I'm an Otaku...!
 
 
 ## 🌐 Socials:
