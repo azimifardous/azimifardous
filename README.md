@@ -1,7 +1,7 @@
 ## Sophomore SWE Student - FullStack Developer
 
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website.<br>👯 I’m open to collaborating on projects.<br>🌱 I’m currently learning Next.js & DSA.<br>💬 Ask me about Coding.<br>⚡ Fun fact - I'm an Otaku...!
+🔭 I’m currently working on my portfolio website.<br>👯 I’m open to collaborating on projects.<br>🌱 I’m currently learning Database Systems & DSA.<br>💬 Ask me about Coding.<br>⚡ Fun fact - I'm an Otaku...!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aziotaku) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azimifardous) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azimifardous) 
