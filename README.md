@@ -3,7 +3,7 @@
 </div>  
   
 
-### *<ins><div align="center">I'm Ahmad Azimi, a full-stack freelance developer 👨‍💻 and second year software engineering student 👨‍🎓</div></ins>*  
+### *<ins><div align="center">I'm Ahmad Azimi, a full-stack freelance developer 👨‍💻 and sophomore software engineering student 👨‍🎓</div></ins>*  
   
 
 - 🔭 I’m currently working on my portfolio website (new version)  
@@ -92,13 +92,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=azimifardous&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -118,6 +111,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
